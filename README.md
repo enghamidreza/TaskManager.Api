@@ -12,8 +12,3 @@
 
 ## تکنولوژی‌ها
 C#، ASP.NET Core 9، Entity Framework Core، SQL Server، Identity، JWT، FluentValidation، Swagger
-
-## نحوه اجرا
-1. مخزن را کلون کنید
-2. Connection String را در `appsettings.json` تنظیم کنید
-3. تنظیمات JWT را در User Secrets بگذارید:
