@@ -117,3 +117,5 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+// اضافه کردن پروژه تست 
+public partial class Program { }
